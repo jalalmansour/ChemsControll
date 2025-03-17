@@ -1,0 +1,128 @@
+{
+  "nav.dashboard": "لوحة التحكم",
+  "nav.hydroponicsCore": "نواة الزراعة المائية",
+  "nav.iotDevices": "أجهزة إنترنت الأشياء",
+  "nav.aiAnalytics": "تحليلات الذكاء الاصطناعي",
+  "nav.sustainability": "الاستدامة",
+  "nav.help": "المساعدة",
+  "nav.search": "بحث...",
+  "nav.settings": "الإعدادات",
+  "nav.notifications": "الإشعارات",
+  "nav.logout": "تسجيل الخروج",
+  "nav.profile": "الملف الشخصي",
+
+  "home.title": "مرحبًا بك في chemsControll",
+  "home.subtitle": "لوحة تحكم الزراعة المائية الذكية",
+  "home.quickStats": "إحصائيات سريعة",
+  "home.viewDetails": "عرض التفاصيل",
+  "home.waterReservoir": "خزان المياه",
+  "home.nutrientLevel": "مستوى المغذيات",
+  "home.nextHarvest": "الحصاد القادم",
+  "home.refillNow": "إعادة الملء الآن",
+  "home.adjustRecipe": "تعديل الوصفة",
+  "home.trackGrowth": "تتبع النمو",
+  "home.aiRecommendations": "توصيات الذكاء الاصطناعي",
+  "home.applyNow": "تطبيق الآن",
+  "home.dismiss": "تجاهل",
+
+  "hydroponics.waterManagement": "إدارة المياه والمغذيات",
+  "hydroponics.environmentalControl": "التحكم البيئي",
+  "hydroponics.structuralInnovations": "الابتكارات الهيكلية",
+  "hydroponics.calibrate": "معايرة",
+  "hydroponics.startDosing": "بدء الجرعات",
+  "hydroponics.stop": "إيقاف",
+  "hydroponics.manualOverride": "تجاوز يدوي",
+  "hydroponics.runMaintenance": "تشغيل الصيانة",
+  "hydroponics.climateControl": "التحكم في المناخ",
+  "hydroponics.lightScheduler": "جدولة الإضاءة",
+  "hydroponics.aiAuto": "وضع الذكاء الاصطناعي التلقائي",
+
+  "iot.deviceNetwork": "شبكة الأجهزة",
+  "iot.smartAutomation": "الأتمتة الذكية",
+  "iot.rebootNode": "إعادة تشغيل العقدة",
+  "iot.runDiagnostics": "تشغيل التشخيص",
+  "iot.activateFoggers": "تنشيط المضببات",
+  "iot.releaseBeneficialInsects": "إطلاق الحشرات المفيدة",
+
+  "ai.duinoChemsChatbot": "روبوت دردشة DuinoChems",
+  "ai.predictiveAnalytics": "التحليلات التنبؤية",
+  "ai.visionSystem": "نظام الرؤية بالذكاء الاصطناعي",
+  "ai.takePhoto": "التقاط صورة",
+  "ai.voiceInput": "إدخال صوتي",
+  "ai.deployTreatment": "نشر العلاج",
+  "ai.generateReport": "إنشاء تقرير",
+  "ai.launchArViewer": "إطلاق عارض الواقع المعزز",
+
+  "sustainability.ecoMetrics": "مقاييس بيئية",
+  "sustainability.certificationTools": "أدوات الشهادات",
+  "sustainability.exportWaterUsage": "تصدير تقرير استخدام المياه",
+  "sustainability.compareIndustry": "مقارنة بمعايير الصناعة",
+  "sustainability.submitToUsda": "تقديم إلى وزارة الزراعة الأمريكية",
+
+  "settings.title": "الإعدادات",
+  "settings.userManagement": "إدارة المستخدمين",
+  "settings.securityCenter": "مركز الأمان",
+  "settings.firmwareUpdates": "تحديثات البرامج الثابتة",
+  "settings.inviteTeam": "دعوة عضو فريق",
+  "settings.revokeAccess": "إلغاء الوصول",
+  "settings.checkForUpdates": "التحقق من التحديثات",
+  "settings.twoFactorAuth": "المصادقة ثنائية العوامل",
+  "settings.appearance": "المظهر",
+  "settings.language": "اللغة",
+  "settings.themeMode": "وضع السمة",
+  "settings.customColor": "لون مخصص",
+  "settings.notifications": "الإشعارات",
+
+  "help.title": "المساعدة والمجتمع",
+  "help.knowledgeBase": "قاعدة المعرفة",
+  "help.setupGuides": "أدلة الإعداد",
+  "help.troubleshooting": "استكشاف الأخطاء وإصلاحها",
+  "help.aiTips": "نصائح الذكاء الاصطناعي",
+  "help.askDuinoChems": "اسأل DuinoChems",
+  "help.reportBug": "الإبلاغ عن خطأ",
+  "help.communityForum": "منتدى المجتمع",
+  "help.shareRecipe": "مشاركة وصفة",
+  "help.askForAdvice": "طلب نصيحة",
+  "help.showcaseHarvest": "عرض الحصاد",
+
+  "error.404": "404 - الصفحة غير موجودة",
+  "error.message": "يبدو أن طماطمك ضائعة! 🌱",
+  "error.returnHome": "العودة إلى الصفحة الرئيسية",
+  "error.reportIssue": "الإبلاغ عن مشكلة",
+
+  "onboarding.tutorial": "برنامج تعليمي للتأهيل",
+  "onboarding.skip": "تخطي",
+  "onboarding.next": "التالي",
+  "onboarding.restart": "إعادة تشغيل البرنامج التعليمي",
+
+  "beta.title": "برنامج بيتا",
+  "beta.joinBeta": "الانضمام إلى بيتا",
+
+  "footer.aboutUs": "من نحن",
+  "footer.careers": "وظائف",
+  "footer.blog": "المدونة",
+  "footer.contact": "اتصل بنا",
+  "footer.privacyPolicy": "سياسة الخصوصية",
+  "footer.termsOfService": "شروط الخدمة",
+  "footer.downloadPdf": "تحميل PDF",
+  "footer.socialMedia": "وسائل التواصل الاجتماعي",
+  "footer.languageRegion": "اللغة/المنطقة",
+  "footer.allRightsReserved": "جميع الحقوق محفوظة.",
+
+  "general.loading": "جارٍ التحميل...",
+  "general.save": "حفظ",
+  "general.cancel": "إلغاء",
+  "general.apply": "تطبيق",
+  "general.delete": "حذف",
+  "general.edit": "تعديل",
+  "general.search": "بحث",
+  "general.filter": "تصفية",
+  "general.sort": "فرز",
+  "general.day": "يوم",
+  "general.week": "أسبوع",
+  "general.month": "شهر",
+  "general.year": "سنة",
+  "general.on": "تشغيل",
+  "general.off": "إيقاف",
+  "general.auto": "تلقائي"
+}
