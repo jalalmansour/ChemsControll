@@ -356,7 +356,8 @@
   body {
     @apply bg-background text-foreground;
   }
-  html, body {
+  html,
+  body {
     @apply overflow-x-hidden;
   }
 }
@@ -425,5 +426,23 @@
 
   .screen-height {
     height: calc(100vh - 4rem);
+  }
+}
+
+@layer utilities {
+  .bg-green-gradient {
+    background-image: linear-gradient(90deg, #00FF00, #008000);
+  }
+  .bg-blue-gradient {
+    background-image: linear-gradient(90deg, #0000FF, #000080);
+  }
+  .bg-purple-gradient {
+    background-image: linear-gradient(90deg, #800080, #4B0082);
+  }
+  .bg-orange-gradient {
+    background-image: linear-gradient(90deg, #FFA500, #FF8C00);
+  }
+  .bg-red-gradient {
+    background-image: linear-gradient(90deg, #FF0000, #800000);
   }
 }
